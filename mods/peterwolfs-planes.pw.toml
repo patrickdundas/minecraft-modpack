@@ -1,0 +1,13 @@
+name = "PeterWolf’s Planes"
+filename = "peterwolfs-planes-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/McTtzw3T/versions/FN8onIqx/peterwolfs-planes-1.2.4.jar"
+hash-format = "sha512"
+hash = "7828a7780f871c699f6334c26dc529948ae3fefb2ce3d62ce48cb44cff505dfcf1c76291298de44626640a69311e062ba28890526cbc99cd5d8143e3918f38db"
+
+[update]
+[update.modrinth]
+mod-id = "McTtzw3T"
+version = "FN8onIqx"

@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "c1102c85069940d20ddb476f54b885be2e958d5172bd894e0a4e19a174f4d3c1"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "67cd707b00e8a67a867a53bfb4da7a596ac80f3ff4bcbcd76fbfd40780600453"
 metafile = true
@@ -16,6 +21,11 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "56e46346c68996df61d53c9d16333f4f6abb15bf454528049841cc37e833bfc6"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "1f5c464b85f8ca75424eee7d6e9d5c0a706fe787e399c2dea1071a37a27dc24d"
 metafile = true
@@ -28,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
+metafile = true
+
+[[files]]
+file = "mods/peterwolfs-planes.pw.toml"
+hash = "29824222deb8835a582947ad6b71c47d9ba17593b47ad19e4b0549c3dff39d82"
 metafile = true
 
 [[files]]
