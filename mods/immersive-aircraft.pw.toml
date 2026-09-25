@@ -1,0 +1,8 @@
+name = "Immersive Aircraft (26.3 port)"
+filename = "immersive_aircraft-fabric-1.5.2-port.1+26.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/patrickdundas/ImmersiveAircraft/releases/download/1.5.2-port.1%2B26.3/immersive_aircraft-fabric-1.5.2-port.1%2B26.3.jar"
+hash-format = "sha256"
+hash = "7b6b9b6b6e16a9bc5aec3f355cd5e7aa3ae18cf6cc15af6e8f8793b4e8ecd382"
