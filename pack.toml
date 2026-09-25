@@ -1,0 +1,13 @@
+name = "minecraft-modpack"
+author = "patri"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "19b70bee239b7f30608f7f1c161673d1c640cc8c02fdb4d2f23033c380d33784"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.3"
