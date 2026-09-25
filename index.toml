@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "8b4e61a5fedbdf8421967f4b92d169a473201802164b7f303ec4c88d67e18385"
+hash = "5bd949e5ff084942c14e7cc7a3065c9a2882b2098e5d9617859a2616a0fbab2e"
 metafile = true
 
 [[files]]
