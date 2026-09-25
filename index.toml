@@ -54,3 +54,8 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "95b014c29351598261257614a55955215bba353a93593b2050cb07da295d3302"
 metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "f9b592f3ef8e92dcebdded7715d0b54ba82b6675420b9604e19d4c53f3ca617e"
+metafile = true
