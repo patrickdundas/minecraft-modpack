@@ -36,8 +36,18 @@ hash = "1f5c464b85f8ca75424eee7d6e9d5c0a706fe787e399c2dea1071a37a27dc24d"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "b0cb97cf6ba1e6193d389a74b30e349e22c84ce4e41d7efde44fae407eae3677"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "d68f9ad500e062c1e3b59f25bf72416e579d18d836b104f2712464298932eca7"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "a72c09943fd0538423afdc4971a579e8a1a0a5521bfbaaa9774bff296a5da24b"
 metafile = true
 
 [[files]]
