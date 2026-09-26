@@ -36,11 +36,6 @@ hash = "5bd949e5ff084942c14e7cc7a3065c9a2882b2098e5d9617859a2616a0fbab2e"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "1f5c464b85f8ca75424eee7d6e9d5c0a706fe787e399c2dea1071a37a27dc24d"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "b0cb97cf6ba1e6193d389a74b30e349e22c84ce4e41d7efde44fae407eae3677"
 metafile = true
@@ -68,11 +63,6 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "4d3d2ad41a037af6f78e2a6c2908c4098bb0b5c03ad0d2711a0c0c6df5e7a172"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "95b014c29351598261257614a55955215bba353a93593b2050cb07da295d3302"
 metafile = true
 
 [[files]]
